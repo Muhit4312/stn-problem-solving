@@ -53,7 +53,7 @@ Make sure Node.js is installed on your computer.
 ### Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Muhit4312/stn-problem-solving.git
 ```
 
 ### Navigate to the Project Directory
